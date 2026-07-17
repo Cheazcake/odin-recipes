@@ -8,11 +8,12 @@ Build a website consisting of a main index page with links to a few recipes usin
 
 ## Skills Practiced
 
-- Basic HTML syntax & boilerplate creation
+- Basic HTML syntax & boilerplate
 - Basic text formatting with headlines, paragraphs, and lists
 - Repository & directory creation & organization using Bash
-- Doing multiple commits with Git, crafting commit messages, and pushing updates to GitHub
-- Making image elements with basic accessibility and license-appropriate attribution
+- Commits with Git, commit messages, and pushing to GitHub
+- Image elements with basic accessibility and license-appropriate attribution
+- Internal & external hyperlinks
 
 ---
 
